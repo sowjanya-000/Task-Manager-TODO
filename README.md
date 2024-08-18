@@ -9,16 +9,20 @@ Back End: Java
 
 Below image shows adding the task
 
-![image](https://github.com/user-attachments/assets/3dcc0f58-1248-49a0-8497-c02fd0c1bd15)
+![image](https://github.com/user-attachments/assets/6f16fac3-6753-46cf-9e82-e1ed0558f3d4)
 
 
-![image](https://github.com/user-attachments/assets/4e64fec1-1e6a-4bae-873f-31a3086174a3)
+
+![image](https://github.com/user-attachments/assets/4036dbe9-c6ff-46f7-aa04-8ae7af52cb48)
+
 
 Rendeering the old and due tasks
 
-![image](https://github.com/user-attachments/assets/5186bd10-3c8e-430b-a675-9af799d82b55)
+![image](https://github.com/user-attachments/assets/155ab6e0-e2b3-4a60-9ae3-c0d3cf7da0e2)
 
 
-![image](https://github.com/user-attachments/assets/17ef38e0-b40b-4afc-8061-758793cd2310)
+
+![image](https://github.com/user-attachments/assets/3d590015-1a23-4e48-9c02-34937f8030f2)
+
 
 
