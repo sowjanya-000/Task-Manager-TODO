@@ -7,6 +7,9 @@ It renders the outdated tasks in Red and due tasks in Dark.
 Front End: JavaFx
 Back End: Java
 
+The files are contained in the project folder in src.
+
+
 Below image shows adding the task
 
 ![image](https://github.com/user-attachments/assets/6f16fac3-6753-46cf-9e82-e1ed0558f3d4)
