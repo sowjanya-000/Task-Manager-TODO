@@ -1,13 +1,26 @@
-This is as simple ToDo task manager built in java. 
+---
+# **Java ToDo Task Manager**
 
-One can add the upcomming tasks ,the description and deadline to it. It lists all the added tasks and their deadlines and descriptions on click. 
+This is a simple yet effective ToDo task manager built in Java, designed to help users manage their tasks efficiently. With an easy-to-use interface and clear visual indicators, this application allows users to keep track of upcoming tasks, deadlines, and descriptions.
 
-It renders the outdated tasks in Red and due tasks in Dark.
+## **Key Features**
 
-Front End: JavaFx
-Back End: Java
+- **Task Management:** Users can add new tasks, including a description and deadline.
+  
+- **Task Listing:** All added tasks are listed with their corresponding deadlines and descriptions, which can be viewed upon clicking.
+  
+- **Visual Indicators:**
+  - **Outdated Tasks:** Tasks that are past their deadline are rendered in **Red**.
+  - **Due Tasks:** Tasks that are approaching their deadline are rendered in **Dark**.
 
-The files are contained in the project folder in src.
+## **Technology Stack**
+
+- **Front End:** JavaFX
+- **Back End:** Java
+
+The project files are contained within the `src` directory of the project folder.
+
+---
 
 
 Below image shows adding the task
